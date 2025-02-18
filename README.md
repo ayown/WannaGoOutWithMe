@@ -1,7 +1,7 @@
 # Do You Wanna Go Out With Me?
 
 This is an interactive webpage where users are asked if they want to go out.
-Credit : [ivysone](https://github.com/ivysone)
+
 
 ## Live At: 
 https://ayown.github.io/WannaGoOutWithMe/
@@ -33,7 +33,7 @@ https://ayown.github.io/WannaGoOutWithMe/
 
 ## License 📄
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+This project is licensed under the MIT License. Credit : [ivysone](https://github.com/ivysone). See the `LICENSE` file for more details.
 
 ---
 
