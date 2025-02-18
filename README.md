@@ -14,9 +14,6 @@ This is an interactive webpage where users are asked if they want to go out. Ple
 - `yes.css`: Contains the styling for `yes.html`, which you will need to design as desired.
 - `styles.css`: Contains the styles for the initial page, including the layout and visual aspects of the buttons and GIF.
 
-## Disclaimer
-
-Not all code is provided in this repository. This is an overview for inspiration.
 
 ## Key Functions
 
