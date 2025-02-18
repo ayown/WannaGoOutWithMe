@@ -38,7 +38,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## A Note on Code Usage
 
-Feel free to use this project as inspiration for your own interactive web pages.If you build upon this code or use it as a starting point for your project, a simple shoutout or link back to this repository is appreciated.
+You can use this project as inspiration for your interactive web pages. If you build upon this code or use it as a starting point for your project, I would appreciate a simple shoutout or link back to this repository.
 
 ---
 
