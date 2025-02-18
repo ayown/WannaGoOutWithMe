@@ -1,6 +1,7 @@
 # Do You Wanna Go Out With Me?
 
 This is an interactive webpage where users are asked if they want to go out.
+Credit : [ivysone](https://github.com/ivysone)
 
 ## Live At: 
 https://ayown.github.io/WannaGoOutWithMe/
